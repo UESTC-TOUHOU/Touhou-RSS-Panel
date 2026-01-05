@@ -54,6 +54,8 @@ docker-compose up -d --build
 
 原作 上海爱丽丝幻乐团
 
+项目中仅包含获得许可的美术资源。
+
 
 ## 技术栈
 
@@ -63,6 +65,6 @@ docker-compose up -d --build
 
 ![Dashboard Preview](./screenshot/preview.png)
 
-### 背景图片
+### 效果预览中展示的背景图片
 1.  https://bunbunmaru-np.com/2026calendar/
 2.  https://thwiki.cc/%E5%88%86%E7%B1%BB:%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5#/media/%E6%96%87%E4%BB%B6:%E6%96%87%E6%96%87%E6%98%A5%E6%96%B0%E6%8A%A5%EF%BC%88%E5%B0%81%E5%BA%95%EF%BC%89.jpg

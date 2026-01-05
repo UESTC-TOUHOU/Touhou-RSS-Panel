@@ -1,0 +1,4 @@
+nicegui
+psutil
+feedparser
+deep_translator

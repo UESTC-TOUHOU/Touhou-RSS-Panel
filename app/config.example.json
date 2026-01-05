@@ -1,0 +1,24 @@
+{
+    "rss_sources": [
+      {
+        "name": "文文新闻",
+        "url": "put your url here",
+        "category": "news"
+      },
+      {
+        "name": "花果子念报",
+        "url": "put your url here",
+        "category": "eng"
+      }
+    ],
+    "system_settings": {
+      "refresh_interval": 1800,
+      "port": 5005
+    },
+    "ui_settings": {
+      // 网络地址："https://put.your.url.here/source"
+      // 本地地址: "/static/背景图片.png"
+      "background_url": "",
+      "banner_url": ""
+    }
+  }

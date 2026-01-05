@@ -1,0 +1,16 @@
+services:
+  touhou-rss:
+    container_name: touhou-rss-panel
+    build: 
+      context: ./app
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "5005:5005"   # 默认端口，可以在 config.json 调整
+    volumes:
+      - ./app:/app
+      - /sys:/host_sys:ro
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    environment:
+      - TZ=Asia/Shanghai
